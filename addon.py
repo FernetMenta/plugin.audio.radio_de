@@ -266,8 +266,6 @@ def __log(text):
 
 def _(string_id):
     if string_id in STRINGS:
-        print("<<<<<<<<<<<<")
-        print(plugin.get_string(STRINGS[string_id]))
         return plugin.get_string(STRINGS[string_id])
     else:
         __log('String is missing: %s' % string_id)
