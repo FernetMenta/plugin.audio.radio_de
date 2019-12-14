@@ -77,6 +77,30 @@ msgctxt "#30303"
 msgid "French"
 msgstr "French"
 
-msgctxt "#30304"
+msgctxt "#30310"
 msgid "Force ViewMode to Thumbnail"
 msgstr "Force ViewMode to Thumbnail"
+
+#: Context Menu
+msgctxt "#30400"
+msgid "Add to \"My Stations\""
+msgstr "Add to \"My Stations\""
+
+msgctxt "#30401"
+msgid "Remove from \"My Stations\""
+msgstr "Remove from \"My Stations\""
+
+msgctxt "#30402"
+msgid "Edit custom Station"
+msgstr "Edit custom Station"
+
+#: Custom Station
+msgctxt "#30500"
+msgid "Please enter"
+msgstr "Please enter"
+
+#: Error Message
+msgctxt "#30600"
+msgid "Network Error"
+msgstr "Network Error"
+
